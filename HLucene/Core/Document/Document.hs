@@ -1,5 +1,5 @@
 {-# LANGUAGE Rank2Types #-}
-module HLucene.Core.Document
+module HLucene.Core.Document.Document
        ( Document(..)
        , TextField
        ) where
